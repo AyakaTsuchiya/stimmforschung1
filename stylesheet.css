@@ -1,3 +1,15 @@
+h1 {
+font-family: 'Arial';
+}
+
+h2 {
+font-family: 'Arial';
+}
+
+p {
+font-family: 'Arial';
+}
+
 .resizeimage {
    max-width: 700px; 
    min-width: 300px; 
